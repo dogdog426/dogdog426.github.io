@@ -1,4 +1,4 @@
-console.log('script.js loaded');
+console.log('lineupscript.js loaded');
 
 const killers = [
   'Trapper',
