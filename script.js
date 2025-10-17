@@ -55,3 +55,6 @@ function lineup(){
     }
     return selected.join(", ");
 }
+
+// Insert lineup result into the page
+document.getElementById('app').textContent = lineup();
